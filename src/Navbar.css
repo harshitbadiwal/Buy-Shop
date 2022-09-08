@@ -1,0 +1,17 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    margin-top: 5px;
+    display: flex;
+    
+    border-radius: 20px;
+    position: sticky
+}
+.Header_Name{
+    margin: auto;
+    font-weight: bolder;
+    font-size:xx-large;
+    margin-left: 5vh;
+}
